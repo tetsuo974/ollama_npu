@@ -27,7 +27,7 @@ It lets you offload the entire model (or selected layers) to any supported NPU: 
 
 ### 1. Clone & configure
 ```bash
-git clone --recursive https://github.com/<you>/llama.cpp-npu.git
+git clone --recursive https://github.com/tetsuo974/llama.cpp-npu.git
 cd llama.cpp-npu
 ```
 
